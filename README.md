@@ -24,16 +24,16 @@ Passionate IT Undergraduate | Flutter Developer | FastAPI Developer
 
 # 💼 Work Experience
 
-## 🚀 Software Engineering Intern
-**Company Name Here**  
-📍 Sri Lanka  
-📅 2025 - Present
+## 🚀 Software Engineering Intern  
+### SLT - Sri Lanka Telecom  
+📍 Colombo, Sri Lanka  
+📅 April 2025 - September 2025  
 
-- Developed backend APIs using FastAPI and MySQL
-- Worked with Flutter mobile application development
-- Integrated Firebase Authentication
-- Improved UI design and application performance
-- Worked with real-world software development tasks
+- Developed Salon Appointment Management System for web and mobile platforms  
+- Worked on Flutter mobile application development  
+- Developed backend APIs and database integration  
+- Improved system UI and application performance  
+- Collaborated with development team on real-world software solutions  
 
 ---
 
