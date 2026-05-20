@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safi Deen</h1>
 
 <h3 align="center">
-Passionate IT Undergraduate | Flutter Developer | FastAPI Developer
+Passionate IT Undergraduate | Flutter Developer | Web Developer
 </h3>
 
 <p align="center">
@@ -106,9 +106,11 @@ Salon booking mobile application using Flutter and Spring Boot.
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Safiuddeen&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safiuddeen&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Safiuddeen&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Safiuddeen&theme=github_dark" />
+
 </p>
 
 ---
