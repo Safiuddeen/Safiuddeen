@@ -80,7 +80,7 @@ Salon booking mobile application using Flutter and Spring Boot.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Safiuddeen&theme=tokyonight" />
 </p>
 
 ---
