@@ -9,6 +9,7 @@ Passionate IT Undergraduate | Flutter Developer | FastAPI Developer
 </p>
 
 ---
+---
 
 # 🚀 About Me
 
@@ -86,6 +87,7 @@ I continuously explore new technologies while improving my skills in **Flutter, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 ---
 
 # 💻 Featured Projects
@@ -104,8 +106,9 @@ Salon booking mobile application using Flutter and Spring Boot.
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Safiuddeen&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safiuddeen&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Safiuddeen&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safiuddeen&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
